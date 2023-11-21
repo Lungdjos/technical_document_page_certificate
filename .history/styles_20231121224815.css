@@ -50,7 +50,7 @@ body {
 }
 
 #nav-bar a {
-    display: block;
+    /* display: block; */
     padding: 12px 30px;
     text-decoration: none;
     cursor: pointer;
@@ -61,17 +61,11 @@ body {
 /* body styling */
 
 code {
-    display: block;
     background-color: #f7f7f7;
-    text-align: left;
-    white-space: pre-line;
-    position: relative;
-    word-break: normal;
-    word-wrap: normal;
-    line-height: 2;
-    padding: 16px;
-    margin: 12px;
-    border-radius: 5px;
+    border-radius: 4px;
+    width: 500px;
+    height: 30px;
+    padding: auto;
 }
 
 #main-doc header {

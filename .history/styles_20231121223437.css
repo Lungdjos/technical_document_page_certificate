@@ -1,0 +1,56 @@
+/* A technical document page stylings */
+
+html {
+    box-sizing: border-box;
+}
+
+header {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    line-height: ;
+}
+
+
+/* nav bar styling */
+
+#nav-bar {
+    position: fixed;
+    border-right: 5px solid #99a2a2;
+    height: 100%;
+    width: 300px;
+    left: 0;
+    top: 0;
+    min-width: 280px;
+}
+
+#nav-bar ul {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.nav-link {
+    border-top: 2px solid #000;
+    margin-top: 10px;
+}
+
+
+/* body styling */
+
+code {
+    background-color: #f7f7f7;
+    border-radius: 4px;
+    width: 500px;
+    height: 30px;
+    padding: auto;
+}
+
+main {
+    position: absolute;
+    margin: 0;
+}
