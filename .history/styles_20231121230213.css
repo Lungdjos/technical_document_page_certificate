@@ -89,12 +89,6 @@ code {
     margin: 17px 0 0 22px;
 }
 
-section .content {
-    color: #4d4e53;
-    margin: 15px;
-    font-size: 0.96em;
-}
-
 
 /* styling for mobile devices */
 
@@ -122,7 +116,7 @@ section .content {
     }
 }
 
-@media only screen and (max-width: 400px) {
+@media(max-width: 400px) {
     #main-doc {
         margin-left: -10px;
     }
