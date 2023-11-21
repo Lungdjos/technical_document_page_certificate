@@ -28,14 +28,14 @@ body {
     position: fixed;
     border-right: 5px solid #99a2a2;
     height: 100%;
-    width: 310px;
+    width: 300px;
     left: 0;
     top: 0;
     min-width: 280px;
 }
 
 #nav-bar ul {
-    height: 90%;
+    height: 88%;
     padding: 0;
     overflow-y: auto;
     overflow-x: hidden;
@@ -81,10 +81,5 @@ code {
 
 #main-doc {
     position: absolute;
-    margin-left: 325px;
-    padding: 22px;
-}
-
-#main-doc li {
-    margin: 17px 0 0 22px;
+    margin-left: ;
 }

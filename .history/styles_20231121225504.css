@@ -28,7 +28,7 @@ body {
     position: fixed;
     border-right: 5px solid #99a2a2;
     height: 100%;
-    width: 310px;
+    width: 300px;
     left: 0;
     top: 0;
     min-width: 280px;
@@ -81,10 +81,6 @@ code {
 
 #main-doc {
     position: absolute;
-    margin-left: 325px;
+    margin-left: 315px;
     padding: 22px;
-}
-
-#main-doc li {
-    margin: 17px 0 0 22px;
 }
