@@ -1,0 +1,28 @@
+/* A technical document page stylings */
+
+html {
+    box-sizing: border-box;
+}
+
+* {
+    border-radius: 4px;
+}
+
+header {
+    font-size: larger;
+    font-weight: 600;
+}
+
+
+/* nav bar styling */
+
+#nav-bar {
+    posi
+}
+
+
+/* body styling */
+
+code {
+    background-color: #f7f7f7;
+}

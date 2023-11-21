@@ -1,0 +1,39 @@
+/* A technical document page stylings */
+
+html {
+    box-sizing: border-box;
+}
+
+* {
+    border-radius: 4px;
+}
+
+header {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+/* nav bar styling */
+
+#nav-bar {
+    position: fixed;
+    border-right: 5px solid #99a2a2;
+    fi
+}
+
+#nav-bar ul a {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+
+/* body styling */
+
+code {
+    background-color: #f7f7f7;
+}
+
+#main-doc {
+    position: relative;
+}

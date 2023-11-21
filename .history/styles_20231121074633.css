@@ -4,14 +4,17 @@ html {
     box-sizing: border-box;
 }
 
+* {
+    border-radius: 4px;
+}
+
 header {
     font-size: 30px;
     font-weight: 500;
 }
 
-body:not(code) {
+body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
 }
 
 
@@ -20,22 +23,13 @@ body:not(code) {
 #nav-bar {
     position: fixed;
     border-right: 5px solid #99a2a2;
-    padding: 5px auto;
-    margin: 2px;
-    height: 100%;
+    padding: 15px auto;
+    margin: ;
 }
 
-#nav-bar ul {
+#nav-bar a {
     font-size: 25px;
     font-weight: 400;
-}
-
-ul .nav-link {
-    list-style-type: none;
-    border-top: 2px solid #000;
-    width: 100%;
-    text-decoration: none;
-    line-height: 15px;
 }
 
 
@@ -43,14 +37,9 @@ ul .nav-link {
 
 code {
     background-color: #f7f7f7;
-    border-radius: 4px;
-    width: 60%;
-    height: 30px;
-    padding: auto;
 }
 
 main {
     position: relative;
-    margin: 0;
-    left: 25%;
+    margin: 25px auto;
 }
