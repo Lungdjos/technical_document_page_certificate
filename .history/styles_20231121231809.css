@@ -24,7 +24,7 @@ body {
 
 /* nav bar styling */
 
-#navbar {
+#nav-bar {
     position: fixed;
     border-right: 5px solid #99a2a2;
     height: 100%;
@@ -34,7 +34,7 @@ body {
     min-width: 280px;
 }
 
-#navbar ul {
+#nav-bar ul {
     height: 90%;
     padding: 0;
     overflow-y: auto;
